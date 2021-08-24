@@ -10,5 +10,9 @@
 
 [04.github](04.github)
 
+[07.ruby](07.ruby)
+
+[08.SketchUp](08.SketchUp)
+
 
 
