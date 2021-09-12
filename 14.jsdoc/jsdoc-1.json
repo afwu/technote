@@ -1,0 +1,21 @@
+{
+    "source": {
+        "include": ["src/controllers", "src/main.js"],
+        "includePattern": ".js$",
+        "excludePattern": "(node_modules/|docs)"
+    },
+
+    "plugins": ["plugins/markdown"],
+
+    "opts": {
+        "encoding": "utf8",
+        "destination": "/Users/henry/technote/14.jsdoc/backre-desktop/",
+        "recurse": true,
+        "verbose": true,
+        "template": "./node_modules/clean-jsdoc-theme",
+        "theme_opts": {
+            "title": "Backre",
+            "theme": "light"
+        }
+    }
+}
