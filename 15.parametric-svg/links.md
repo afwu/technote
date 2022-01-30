@@ -19,3 +19,21 @@ https://blog.csdn.net/weixin_26721705/article/details/109123068<Paste>
 [SVG 图像入门教程](https://www.ruanyifeng.com/blog/2018/08/svg.html)
 
 
+
+商业产品，甚者有CAD类似的设计图：
+
+[smartdraw](https://www.smartdraw.com/diagrams/)
+
+
+
+比较全面的泛泛介绍：[The Ultimate Guide to Creating Beautiful Diagrams](https://creately.com/blog/diagrams/how-to-create-beautiful-diagrams/)
+
+
+这八个产品有很大的参考价值：[8 Online Tools to Draw Diagrams and Flowcharts](https://www.groovypost.com/reviews/8-online-tools-draw-diagrams-flowcharts/)
+
+
+
+
+
+
+
