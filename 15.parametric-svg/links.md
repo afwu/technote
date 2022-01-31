@@ -32,6 +32,12 @@ https://blog.csdn.net/weixin_26721705/article/details/109123068<Paste>
 这八个产品有很大的参考价值：[8 Online Tools to Draw Diagrams and Flowcharts](https://www.groovypost.com/reviews/8-online-tools-draw-diagrams-flowcharts/)
 
 
+使用鼠标滚轮zoom svg：[SVG zoom with mouse wheel inside HTML document](https://stackoverflow.com/questions/15073324/svg-zoom-with-mouse-wheel-inside-html-document)
+
+
+Zoom svg: [how to zoom in on a complex svg structure](https://stackoverflow.com/questions/52576376/how-to-zoom-in-on-a-complex-svg-structure)
+
+
 
 
 
