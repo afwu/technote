@@ -5,6 +5,8 @@ Gitbook 是为技术团队文档服务的，packdir 为普通人使用，这是�
 因此，Gitbook 强调版本控制、协作文档、私有文库，packdir 强调使用简单、方便分享。packdir 最普通的场景是：**我要打包一些有价值的资料，并且方便阅读**。
 
 
+吃惊：在Gitbook中，要导出pdf格式，必须是business用户，即使是付费的team用户也没有这个功能！
+
 
 ## links
 
