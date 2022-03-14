@@ -18,7 +18,7 @@ end
 
 puts "--------------------\n"
 
-a.each do |p, index|
+a.each do |index, p|
   puts "\n p: #{p}\n"
   puts "index: #{index}\n"
 end
@@ -26,6 +26,6 @@ end
 # p: 23
 #index: 23
 #
-# p: 24
-#index: 2424
+# p: 2424
+#index: 24
 
